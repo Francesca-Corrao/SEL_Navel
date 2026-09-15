@@ -1,0 +1,7 @@
+openai
+omegaconf
+python-dotenv
+torch
+pyaudio
+requests
+azure-cognitiveservices-speech
