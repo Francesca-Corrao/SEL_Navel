@@ -1,2 +1,4 @@
 .env
-prompt.yaml   
+prompt.yaml
+__pycache__/
+.vscode/
